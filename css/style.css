@@ -18,7 +18,7 @@
     position: relative;
 }
 
-.custom-title h2 {
+.custom-title > h2 {
     position: relative;
     font-size: 30px;
     color: #777;
