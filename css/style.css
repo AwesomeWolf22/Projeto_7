@@ -1,0 +1,15 @@
+.sect1 {
+    min-height: 500px;
+    position: relative;
+}
+
+.sect1 .form-container {
+    background-color: white;
+    padding: 15px 2%;
+    max-width: 700px;
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
